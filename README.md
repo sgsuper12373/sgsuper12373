@@ -44,14 +44,20 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sgsuper12373&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=10&amp;bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <br>
+  <br>
+
+
   <a href="https://leetcode.com/u/sgsuper12373/">
     <img src="https://leetcard.jacoblin.cool/sgsuper12373?theme=dark&amp;font=Nunito&amp;ext=activity" width="48%" alt="LeetCode Stats" />
   </a>
-</div>
-<br>
+  <br>
+  <br>
 
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgsuper12373&amp;theme=tokyonight&amp;border_radius=10&amp;background=0D1117" width="48%" alt="GitHub Streak" />
+  <br>
+  <br>
+  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sgsuper12373&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=10&amp;bg_color=0D1117" width="48%" alt="Top Languages" />
 </div>
 
