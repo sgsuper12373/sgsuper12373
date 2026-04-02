@@ -57,6 +57,9 @@
   <a href="https://www.geeksforgeeks.org/profile/sgsuper12373">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
+  <a href="https://leetgpu.com/sgsuper12373">
+    <img src="https://img.shields.io/badge/LeetGPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="LeetGPU" />
+  </a>
 </div>
 
 ---
