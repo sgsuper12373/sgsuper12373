@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Sumit!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=B.Tech%20in%20Computer%20Science%20%26%20Engineering%20@%20IIT%20Palakkad&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Sumit!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=B.Tech%20in%20Computer%20Science%20and%20Engineering%20@%20IIT%20Palakkad&descAlignY=58&descSize=20"/>
 
   <p>
-    <a href="https://github.com/sgsuper12373"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Parallel+%26+GPU+Programming+Enthusiast;Mastering+CUDA+%26+HPC;Always+learning+new+technologies" alt="Typing SVG" /></a>
+    <a href="https://github.com/sgsuper12373"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Parallel+and+GPU+Programming+Enthusiast;Mastering+CUDA+and+HPC;Always+learning+new+technologies" alt="Typing SVG" /></a>
   </p>
 </div>
 
