@@ -43,17 +43,17 @@
 ## 📊 Coding Profiles & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgsuper12373&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgsuper12373&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=10&amp;bg_color=0D1117" width="48%" alt="GitHub Stats" />
   <a href="https://leetcode.com/u/sgsuper12373/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=sgsuper12373&theme=dark" width="48%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/sgsuper12373?theme=dark&amp;font=Nunito&amp;ext=activity" width="48%" alt="LeetCode Stats" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgsuper12373&theme=tokyonight&border_radius=10&background=0D1117" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgsuper12373&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgsuper12373&amp;theme=tokyonight&amp;border_radius=10&amp;background=0D1117" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgsuper12373&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=10&amp;bg_color=0D1117" width="48%" alt="Top Languages" />
 </div>
 
 <br>
