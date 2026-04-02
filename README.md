@@ -28,16 +28,7 @@
 
 ---
 
-## 🌟 Featured Projects
-
-*Here are a few of my favorite projects. For more, check my repositories!*
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[Project Name 1](#)** | (Write a brief 1-2 sentence impact-focused description here) | `CUDA` `C++` | [Repo](#) \| [Live](#) |
-| **[Project Name 2](#)** | (What problem did this solve? e.g. "A full stack web app for...")| `React` `Flask` `PostgreSQL` | [Repo](#) \| [Live](#) |
-
----
+<!-- g -->
 
 ## 📊 Coding Profiles & Stats
 
